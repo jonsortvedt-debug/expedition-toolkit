@@ -1,0 +1,19 @@
+# Logs
+Logs/
+*.log
+
+# Marker files
+*.marker
+
+# PowerShell
+*.ps1xml
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
